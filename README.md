@@ -2,6 +2,7 @@
 Developed an extensive Power BI Dashboard for Revenue Management team of AtliQ Grands utilizing Power Query for data transformation, DAX for custom measures, and a variety of Power BI visualizations for effective data representation. The dashboard offers a comprehensive overview of key performance metrics, revenue sources, booking trends, and property-specific insights. Interactive features like data filters and page navigation facilitate easy exploration of data subsets, enabling AtliQ Grands to optimize pricing, enhance marketing strategies, and improve operational efficiency to regain market share and revenue in the luxury/business hotels segment.
 
 ## Problem Statement
+
 **Provide Insights to the Revenue Team in the Hospitality Domain**
 
 **Domain:**  Hospitality       **Function:** Revenue
@@ -67,9 +68,36 @@ Table fact_bookings contains 12 columns and 134,590 rows.
 - Multiple Data Filters
 - Navigation Pane
 - Monthly and Weekly Trends for Key Metrices
-- Analysis done on basis of Various Parameters.
+- Revenue, Booking and Property Analysis done on basis of Various Parameters.
 - Drill Down available for Booking % and Revenue Contribution %.
 
+## List of KPIs created using DAX
+
+- ABW (Average Booking Window)
+- ADR (Average Daily Rate)
+- ALOS (Average Length of Stay)
+- Average Rating
+- Cancellation %
+- DBRN (Daily Booked Room Nights)
+- DSRN (Daily Sellable Room Nights)
+- DURN (Daily Unutilized Room Nights)
+- Occupancy %
+- Realisation %
+- Revenue
+- RevPAR (Revenue Per Available Room)
+- Total Bookings
+- Total Capacity
+
 ## Screenshots
+
+![PSS (1)](https://github.com/jarsheenkaur/AtliQ-Grands-Hospitality-Dashboard/assets/152518497/10475658-b0a7-4805-99dd-0652c1e29aba)
+
+![PSS (2)](https://github.com/jarsheenkaur/AtliQ-Grands-Hospitality-Dashboard/assets/152518497/2bd16480-ff58-4d39-8cd4-26c6fa52db8c)
+
+![PSS (3)](https://github.com/jarsheenkaur/AtliQ-Grands-Hospitality-Dashboard/assets/152518497/0d62e400-27b6-4712-a343-5d4b0f564daf)
+
+![PSS (4)](https://github.com/jarsheenkaur/AtliQ-Grands-Hospitality-Dashboard/assets/152518497/50b3ec1d-d26a-445b-ab09-46bafa36421e)
+
+![PSS (5)](https://github.com/jarsheenkaur/AtliQ-Grands-Hospitality-Dashboard/assets/152518497/6938a2ed-c2c9-4cf7-91cc-35c87579a499)
 
 ## Key Insights
