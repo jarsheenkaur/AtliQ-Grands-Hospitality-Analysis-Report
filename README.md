@@ -80,7 +80,7 @@ Table fact_bookings contains 12 columns and 134,590 rows.
 - Cancellation %
 - DBRN (Daily Booked Room Nights)
 - DSRN (Daily Sellable Room Nights)
-- DURN (Daily Unutilized Room Nights)
+- DURN (Daily Utilized Room Nights)
 - Occupancy %
 - Realisation %
 - Revenue
@@ -90,14 +90,28 @@ Table fact_bookings contains 12 columns and 134,590 rows.
 
 ## Screenshots
 
-![PSS (1)](https://github.com/jarsheenkaur/AtliQ-Grands-Hospitality-Dashboard/assets/152518497/10475658-b0a7-4805-99dd-0652c1e29aba)
+![PSS (1)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/560b9907-9d53-4d4b-a788-1ac9e32b1192)
 
-![PSS (2)](https://github.com/jarsheenkaur/AtliQ-Grands-Hospitality-Dashboard/assets/152518497/2bd16480-ff58-4d39-8cd4-26c6fa52db8c)
+![PSS (2)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/574cd1b8-5379-4908-9607-578ac1e39438)
 
-![PSS (3)](https://github.com/jarsheenkaur/AtliQ-Grands-Hospitality-Dashboard/assets/152518497/0d62e400-27b6-4712-a343-5d4b0f564daf)
+![PSS (3)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/df5b1c34-38f8-4c99-9ec6-40bac3ae4299)
 
-![PSS (4)](https://github.com/jarsheenkaur/AtliQ-Grands-Hospitality-Dashboard/assets/152518497/50b3ec1d-d26a-445b-ab09-46bafa36421e)
+![PSS (4)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/5de5103e-d015-48b9-90f0-6f5ffa05d79d)
 
-![PSS (5)](https://github.com/jarsheenkaur/AtliQ-Grands-Hospitality-Dashboard/assets/152518497/6938a2ed-c2c9-4cf7-91cc-35c87579a499)
+![PSS (5)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/be429a9f-2fb1-438a-b927-64f95c9cfbea)
+
+![PSS (6)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/9b98ce90-ac79-4fd6-bd71-44c39edab543)
 
 ## Key Insights
+
+1. Over the 3 Months (May, June and July 2022), AtliQ Grands Hospitality earned  1.7 Billion, achieved Average Rating of 3.62/5, recived 134.59K Bookings as well as Occupancy, Cancellation and Realisation was calculated at about 60%, 25% and 70% respectively.
+2. From Trend Charts, it can inferred that drop in Revenue is caused by drop in Bookings and Occupancy %. Cancellation % does not seems to be the reason for drop in Revenue since it has been pretty consistent from 24-25% throughout the months. Still, AtliQ Grands should try to reduce it for achieving better utilization of capacity.
+3. Highest Revenue Contributors by Various Categories:- City -> Mumbai (669 Millions approx.), Properties -> AtliQ Exotica (320 Millions) and AtliQ Palace (304 Millions), Room Class -> Elite (560 Millions) and Room (or Hotel) Category -> Luxury (1053 Millions approx). Others at 40% is the highest contributing Booking Platform followed by Makeyoutrip at 20% (Unrecognized booking sources need to be identified for better marketing efforts).
+4. AtliQ Grands earned 199 Millions in Revenue as Bookings Cancellation Fees.
+5. Out of Total 134590 Bookings, 94411 were Success, 33420 were Cancelled and 6759 were No Show.
+6. Highest Bookings Contributors by Various Categories:- City -> Mumbai (43K), Properties -> AtliQ Palace (17.5%) and AtliQ Exotica (17.4%), Booking Platforms -> Others (55K) and Makeyoutrip (7K), Room Class -> Elite (49.5K) and Room (or Hotel) Category -> Luxury (83.7K).
+7. Daily Booked Room Nights (DBRN) was calculated at 1463, Daily Sellable Room Nights (DSRN) was calculated at 2528 and Daily Utilized Room Nights (DURN) was calculated at 1026. All of these were consistent over 3 Months with very little variations.
+8. Total Capacity was 233K with Highest at AtliQ Palace closely followed by AtliQ Exotica and Lowest at AtliQ Seasons at 8.92K. 
+9. Average Daily Rate (ADR) was calculated to be 12.7K, Average Length of Stay (ALOS) was calculated to be 2 days and Average Booking Window (ABW) was calculated to be 4 days. All of these were consistent over 3 Months with very little variations.
+10. AtliQ Blu has the Highest Occupancy % of 62% closely followed by AtliQ Palace at 60% and AtliQ City at 59.5%. Delhi has the highest Occupancy % but still is the city with lowest contribution to Revenue. Bangalore has the lowest Occupancy % but still is the second highest city contributing to Revenue.
+11. AtliQ Seasons is contributing less towards Revenue, have lowest Average Rating (2/5) as well as lowest Occupancy % (44.6%) as it received only 3.98K Bookings over 3 Months  which is a matter of concern.
