@@ -1,4 +1,4 @@
-# AtliQ Grands Hospitality Dashboard [Power BI]
+# AtliQ Grands Hospitality Analysis Report [Power BI]
 Developed an extensive Power BI Dashboard for Revenue Management team of AtliQ Grands utilizing Power Query for data transformation, DAX for custom measures, and a variety of Power BI visualizations for effective data representation. The dashboard offers a comprehensive overview of key performance metrics, revenue sources, booking trends, and property-specific insights. Interactive features like data filters and page navigation facilitate easy exploration of data subsets, enabling AtliQ Grands to optimize pricing, enhance marketing strategies, and improve operational efficiency to regain market share and revenue in the luxury/business hotels segment.
 
 ## Problem Statement
